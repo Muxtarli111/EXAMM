@@ -1,0 +1,26 @@
+*{
+
+    box-sizing: border-box;
+    margin: 0 auto;
+    padding: 0;
+
+}
+
+
+.container{
+    max-width: 1200px;
+
+}
+.container .header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+.header .center .lists{
+    display: flex;
+    align-items: center;
+    justify-content: center
+}
+
+
